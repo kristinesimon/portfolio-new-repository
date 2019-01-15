@@ -1,0 +1,43 @@
+﻿body {
+    padding-top: 54px;
+}
+
+
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.pagination {
+    margin-bottom: 30px;
+}
+
+.navbar-brand {
+    font-family: 'Oleo Script', cursive;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.navbar {
+    color: #3399FF;
+}
+
+h1{
+    padding-top: 10px;
+}
+
+.profile {
+  
+    border-radius: 50%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 10%;
+    height: 10%;
+
+}
